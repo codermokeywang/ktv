@@ -1,0 +1,18 @@
+POST http://localhost:8633/api/admin/account/register?email=admin@qq.co&username=admin&possword=123456
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8633/api/admin/account/register?email=admin@qq.co&username=admin&possword=123456
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8633/api/admin/account/register?email=admin@qq.co&username=admin&possword=123456
+Accept: */*
+Cache-Control: no-cache
+
+###
+
